@@ -1,4 +1,4 @@
-baseURL = 'https://thirdsaturdays.com/'
+baseURL = 'https://www.thirdsaturdays.com/'
 languageCode = 'en-us'
 title = 'Third Saturdays'
 theme = 'ananke'
