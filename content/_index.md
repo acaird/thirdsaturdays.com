@@ -32,6 +32,6 @@ No kids.  No parents.  Guests are on a very limited basis.
 
 We talk about them too much as it is.
 
-**Stag eats free**
+**Stag eats and (more importantly) drinks free**
 
 If you come without a partner, you don't have to pay.  Unless you are the only one there.  No dine and dash.
