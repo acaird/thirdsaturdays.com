@@ -1,8 +1,7 @@
 
 ---
 description: dinners with friends
-cascade:
-   featured_image: 'hero-image.jpg'
+featured_image: 'hero-image.jpg'
 ---
 
 
